@@ -1,0 +1,6 @@
+{
+  "name": "Gothic Romantic Birthday Surprise",
+  "description": "An interactive mobile-first gothic romantic birthday invitation featuring an interactive candle-blowing cake ceremony and three mystery doors of birthday surprises.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
